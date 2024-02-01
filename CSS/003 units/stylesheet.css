@@ -1,0 +1,44 @@
+#px {
+  width: 100px; 
+  height: 100px;
+  background-color: red;
+}
+
+
+#section{
+    width: 50%;
+    height: 500px;
+    background-color: teal;
+    margin-left: 25%;
+  }
+
+#sectiondiv {
+    background-color: red;
+    width: 50%;
+   
+    height: 100%;
+}
+
+#div  {
+  height: 100%;
+  width: 50%;
+  background-color: rgb(208, 31, 31);
+}
+ 
+
+ #para1 {
+  font-size: 2em;
+ }
+
+ .yak {
+  font-size: 200px;
+ }
+
+ .yakein  {
+  height: 67vh;
+  width: 50vw;
+  background-color: aqua;
+ }
+
+
+

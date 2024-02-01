@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+
+*{
+    margin: 0px;
+    /* this is the univeersal selector to select everything */
+    font-family:  'Bungee Spice', sans-serif;
+    font-size: small;
+}
+
+.yak{
+    border-width: 2px;
+    border-style: solid;
+    border-color: red;
+}
+
+.yakein{
+    border: 2px dotted black;
+}
+
+.kumar{
+    border-right: 9px solid red;
+    border-left: 2px dashed blue;    
+    border-top: 2px solid black;
+    border-bottom: 2px solid green;
+}
+
+.padding{
+    border: 3px solid black;
+    padding: 10px;
+    /* you can individually add padding to right or left as you like */
+}
+
+.paddingtopbottom{
+    border: 3px solid crimson;
+    padding: 55px 25px;
+}
+
+.margin{
+    border: 5px solid blue;
+    margin: 200px 100px;
+    padding: 5px;
+} 

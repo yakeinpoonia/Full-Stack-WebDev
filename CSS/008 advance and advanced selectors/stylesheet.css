@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+
+* {
+    margin: 0;
+    font-family: 'Bungee Spice', sans-serif;
+}
+
+.yak{
+    text-align: center;
+    font-size: 80px;
+    /* background-color: black; */
+    height: 50vh;
+    background-image: url("https://images.pexels.com/photos/19898940/pexels-photo-19898940/free-photo-of-close-up-of-an-owl-perching-in-a-hollow.jpeg");
+    background-attachment: fixed;
+}
+
+a{
+    text-decoration: none;
+    font-size: 100px;
+    cursor: pointer;
+}
+
+.poo{
+    padding-top: 250px;
+}
+
+.ein{
+    text-decoration: none;
+    text-align: center;
+    background-color: aqua;
+    height: 100vh;
+    background-image: url("https://images.pexels.com/photos/19898940/pexels-photo-19898940/free-photo-of-close-up-of-an-owl-perching-in-a-hollow.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+}

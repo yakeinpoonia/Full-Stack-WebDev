@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+p{
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 10px;
+    text-align: center;
+    text-decoration: none;
+    cursor: progress;
+    font-weight: bolder;
+}
+
+.yakein{
+    font-family:  'Bungee Spice', sans-serif;
+    font-size: larger;
+}
+
+a{
+    text-align: center;
+    font-size: larger;
+    text-decoration: none;
+    font-family:  'Bungee Spice', sans-serif;
+    cursor: default;
+}
